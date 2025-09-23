@@ -2,4 +2,4 @@
 var número01 = 37;
 var número02 = 78;
 let soma = número01 + número02;
-console.log(soma); 
+console.log (soma); 
